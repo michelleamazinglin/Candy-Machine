@@ -1,4 +1,4 @@
-#Candy Machine 
+# Candy Machine 
 
 [Live Site](https://michelleamazinglin.github.io/Candy-Machine/)
 
