@@ -1,8 +1,10 @@
 # Final Project - Candy Machine 
 
+[Live Site](https://codepen.io/ml4567/pen/poROxER?editors=1010)
+
+
 [View Code via Codepen.io](https://codepen.io/ml4567/pen/poROxER?editors=1010)
 
-[Full Screen via Codepen.io](https://cdpn.io/ml4567/debug/poROxER/XBAGRjmgZjer)
 
 ## Group Members
 * Michelle Lin (ml4567)
