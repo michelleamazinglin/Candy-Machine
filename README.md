@@ -1,6 +1,6 @@
 # Final Project - Candy Machine 
 
-[Live Site](https://codepen.io/ml4567/pen/poROxER?editors=1010)
+[Live Site](https://michelleamazinglin.github.io/Candy-Machine/)
 
 
 [View Code via Codepen.io](https://codepen.io/ml4567/pen/poROxER?editors=1010)
