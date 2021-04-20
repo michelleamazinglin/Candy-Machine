@@ -7,9 +7,8 @@
 
 
 ## Group Members
-* Michelle Lin (ml4567)
-* Tianyi Tracy Zhang
-* Wenjie Xu
+* Michelle Lin
+* Art Assets by Tianyi Tracy Zhang
 
 ## Overview
 
@@ -19,7 +18,7 @@ Users can also search all candies they've drop into the candy machine by providi
 ## Technologies used
 * firebase
 * vue.js
-* codepen.io
+
 
 ## Functionality and MVP
 1. Candy Machine
